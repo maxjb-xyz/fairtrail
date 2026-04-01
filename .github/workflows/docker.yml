@@ -8,7 +8,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: affromero/fairtrail
+  IMAGE_NAME: maxjb-xyz/fairtrail
 
 jobs:
   build:
